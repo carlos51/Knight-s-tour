@@ -22,3 +22,9 @@ The solution is generated using a **custom heuristic-based algorithm inspired by
 - Adjustable board size and starting position
 
 This project focuses on algorithmic thinking, heuristics, and visualization rather than brute-force search, providing an intuitive way to explore the Knight’s Tour problem.
+
+## Preview
+
+<p align="center">
+  <img src="images/caballo.gif" width="500" />
+</p>
